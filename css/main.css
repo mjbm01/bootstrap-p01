@@ -1,8 +1,16 @@
 @font-face {
-    font-family: "vaziri";
-    src: url(../fonts/webfonts/Vazirmatn-Medium.woff2);
+  font-family: "vaziri";
+  src: url(../fonts/webfonts/Vazirmatn-Medium.woff2);
 }
 
-body{
-    font-family: "vaziri" !important;
+body {
+  font-family: "vaziri" !important;
+}
+
+.icon {
+  color: #0d6efd;
+  background-color: #ebfaeb;
+  display: inline-flex;
+  padding: 10px;
+  border-radius: 15px;
 }
