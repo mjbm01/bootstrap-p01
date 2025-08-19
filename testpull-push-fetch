@@ -2,5 +2,13 @@ mohamadbm139@gmail.com
 
 this is test for pull, push
 for test conflict
+<<<<<<< HEAD
 
 this is test for your mastering on manage with git/github
+=======
+your contributer add new edit , changes on file and folders
+:)
+:)
+:)
+:)
+>>>>>>> 6e66381e725018715016d7e7c559e6aefe818fec
